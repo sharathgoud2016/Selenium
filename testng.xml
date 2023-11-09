@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="BDD Test Suite" parallel="tests" thread-count="1" configfailurepolicy="skip">
+
+	<test name="RMA Web Automation Regression">
+	<parameter name="browser" value="firefox"></parameter>
+	<!-- <parameter name="SITenvironment" value="casaeform"></parameter> -->
+		<classes>
+			<class name="com.cimb.rma.runner.Runcukes" />
+		</classes>
+	</test>
+	
+</suite> 

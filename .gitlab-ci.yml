@@ -1,0 +1,30 @@
+stages:
+  - test
+
+test:
+  stage: test
+  image: "registry.gitlab.tcjteam.tech/tcj/builders/docker-maven-chrome:v0.9"
+  cache:
+    key: maven-cache
+    paths:
+    - .m2
+    when: "always"
+  variables:
+    MAVEN_OPTS: "-Dmaven.repo.local=${CI_PROJECT_DIR}/.m2"
+    # 16bit color virtual screen
+    # this must be large enough so that the full width of the app is visible to avoid clicks resulting
+    # in "WebDriverError: element not interactable: element has zero size"
+    XVFB_SCREEN: "1920x1200x16"
+    OS: $CI_SERVER_NAME
+
+  script:
+    # run in virtual X Window, otherwise image upload test will hang in headless mode.
+    # run specified suite
+    - timeout 118m xvfb-run --server-args="-screen 0 ${XVFB_SCREEN}" mvn -Duser.timezone=Asia/Kuala_Lumpur clean verify -Dcucumber.filter.tags="$TESTS" -Dbrowser=$BROWSER -Denv=$ENVIRONMENT -Dversion=$VERSION -Dos=${OS}
+  # run even when previous test has failed
+  when: always
+  artifacts:
+    paths:
+      - test-output
+    expire_in: 1 week
+    when: always
