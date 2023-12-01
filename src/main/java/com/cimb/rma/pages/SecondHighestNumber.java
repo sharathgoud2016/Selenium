@@ -24,7 +24,7 @@ public class SecondHighestNumber {
 	   
 	    List<Integer> list=Arrays.asList(a);
 	    Collections.sort(list);
-	    System.out.println(list.get(list.size()-2));
+	 //   System.out.println(list.get(list.size()-2));
 	
 	}
 

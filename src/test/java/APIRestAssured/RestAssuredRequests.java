@@ -3,6 +3,9 @@ package APIRestAssured;
 import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
+import io.restassured.response.ValidatableResponse;
+
+import org.json.JSONObject;
 import org.junit.jupiter.api.Assertions;
 
 import com.aventstack.extentreports.util.Assert;
@@ -28,6 +31,8 @@ public class RestAssuredRequests {
                 .get("/api/users?page=2")
                 .then()
                 .extract().response();
+        ValidatableResponse repTime=response.then().log().all();
+        System.out.println("Response Time"+repTime.toString());
         System.out.println(response.asString());
         System.out.println("Get Status Code"+response.statusCode());
         System.out.println("Page Value"+response.jsonPath().getInt("page"));
@@ -54,7 +59,8 @@ public class RestAssuredRequests {
             }
         }
         
-      //  JsonObject jsobj=new JsonObject();
+        JSONObject jsobj=new JSONObject(response.asString());
+        System.out.println("Jsonobject "+jsobj.getInt("page"));
         
     }
 }

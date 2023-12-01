@@ -2,8 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="D:\Git_Gowri\Selenium\src"/>
 			<item value="D:\Git_Gowri\Selenium"/>
+			<item value="D:\Git_Gowri"/>
+			<item value="D:\Git_Gowri\Selenium\src"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

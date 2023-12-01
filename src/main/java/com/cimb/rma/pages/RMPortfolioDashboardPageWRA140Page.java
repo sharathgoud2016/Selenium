@@ -327,7 +327,7 @@ public class RMPortfolioDashboardPageWRA140Page extends BasePage {
 		System.out.println("dateFormatDisplay   "+dateFormatDisplaytext);
 		String[] arrOfStr = dateFormatDisplaytext.split(" ");
 		System.out.println("Date   "+arrOfStr[3]);
-		System.out.println(java.time.LocalDate.now());
+//		System.out.println(java.time.LocalDate.now());
 	    LocalDate currentDate=java.time.LocalDate.now();
 	    int todayDate=currentDate.getDayOfMonth();
 	    String stringDate=Integer.toString(todayDate);

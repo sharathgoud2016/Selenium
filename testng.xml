@@ -7,7 +7,7 @@
 	<parameter name="browser" value="firefox"></parameter>
 	<!-- <parameter name="SITenvironment" value="casaeform"></parameter> -->
 		<classes>
-			<class name="com.cimb.rma.runner.Runcukes" />
+			<class name="com.cimb.rma.runner.Runcukes"/>
 		</classes>
 	</test>
 	
