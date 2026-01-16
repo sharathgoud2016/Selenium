@@ -60,7 +60,7 @@ public class RestAssuredExample {
         // ✅ Headers
         Headers headers = response.headers();
         for (Header h : headers) {
-            System.out.println("Header " + h.getName() + " : " + h.getValue());
+            System.out.println("Header List " + h.getName() + " : " + h.getValue());
         }
     }
 }
