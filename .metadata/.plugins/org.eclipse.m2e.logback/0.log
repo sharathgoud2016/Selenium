@@ -205,3 +205,84 @@
 2026-01-16 15:35:39,403 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2026-01-16 15:40:41,870 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2026-01-16 15:53:34,013 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-01-16 16:20:10,704 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-01-16 16:20:54,941 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: LaunchCGLowes:LaunchCGLowes:0.0.1-SNAPSHOT @ D:\Selenium_2026\Selenium\Selenium\pom.xml.
+2026-01-16 16:20:57,919 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:20:57,920 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:20:57,928 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:20:57,942 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2026-01-16 16:21:56,004 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:21:56,005 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:21:56,008 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:21:56,008 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:22:00,961 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:22:00,961 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:22:00,966 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:22:00,966 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:22:16,626 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:22:16,626 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:22:16,629 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:22:16,629 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:22:33,872 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:22:33,872 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:22:33,878 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:22:33,878 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:25:34,610 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:25:34,611 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:25:34,614 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:25:34,614 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:26:46,947 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:26:46,947 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:26:46,949 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:26:46,950 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:30:00,341 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:30:00,341 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:30:00,346 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:30:00,346 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:30:09,012 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:30:09,012 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:30:09,016 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:30:09,016 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:30:24,394 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:30:24,394 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:30:24,397 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:30:24,397 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:30:34,817 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:30:34,818 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:30:34,819 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:30:34,820 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:31:46,853 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:31:46,853 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:31:46,856 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:31:46,856 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:35:35,096 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:35:35,097 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:35:35,099 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:35:35,099 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:36:44,957 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.12; built: 2022-09-14T01:54:40.076Z; git: 408d0139887e27a57b54ed52e2d92a36731a7e88; jvm 17.0.5+8
+2026-01-16 16:36:44,992 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2026-01-16 16:36:45,040 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4af79ef1{/help,null,AVAILABLE}
+2026-01-16 16:36:45,070 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@47164f1d{HTTP/1.1, (http/1.1)}{127.0.0.1:51011}
+2026-01-16 16:36:45,095 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@4a876723{STARTING}[10.0.12,sto=0] @1007524ms
+2026-01-16 16:37:06,252 [Worker-18: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2026-01-16 16:37:06,290 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:37:06,294 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:37:06,305 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:37:06,305 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:37:06,562 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@4a876723{STOPPING}[10.0.12,sto=0]
+2026-01-16 16:37:06,566 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@47164f1d{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2026-01-16 16:37:06,687 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@4af79ef1{/help,null,STOPPED}
+2026-01-16 16:37:29,943 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-01-16 16:38:29,568 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:38:29,569 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:38:29,573 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:38:29,578 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2026-01-16 16:38:37,047 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:38:37,048 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:38:37,051 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:38:37,052 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-16 16:55:56,304 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-01-16 16:56:09,427 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:56:09,430 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-01-16 16:56:09,438 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-16 16:56:09,447 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
