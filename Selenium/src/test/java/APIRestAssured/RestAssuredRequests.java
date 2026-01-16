@@ -22,13 +22,13 @@ public class RestAssuredRequests {
 	{
    
    
-        RestAssured.baseURI = "https://reqres.in";
+        RestAssured.baseURI = "https://jsonplaceholder.typicode.com/";
     
 
    
         Response response = given()
                 .header("Content-type", "application/json").when()
-                .get("/api/users?page=2")
+                .get("posts/1")
                 .then()
                 .extract().response();
         ValidatableResponse repTime=response.then().log().all();
