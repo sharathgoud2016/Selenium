@@ -301,3 +301,244 @@
 2026-01-16 17:03:43,596 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2026-01-30 22:14:41,144 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2026-01-30 22:20:11,713 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-10-20 14:44:01,455 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-10-20 14:44:34,576 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-10-20 14:45:35,106 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-10-20 14:49:35,441 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-10-20 14:50:07,576 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-10-20 14:51:56,847 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: LaunchCGLowes:LaunchCGLowes:0.0.1-SNAPSHOT @ D:\Selenium_2026\Selenium\Selenium\pom.xml.
+2026-10-20 14:52:03,543 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.42/lombok-1.18.42-sources.jar
+2026-10-20 14:52:04,098 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 14:52:04,099 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 14:52:04,106 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 14:52:04,114 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2026-10-20 14:52:04,243 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-10-20 14:52:04,298 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.42/lombok-1.18.42-sources.jar
+2026-10-20 14:52:04,314 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.42
+2026-10-20 14:52:05,135 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: LaunchCGLowes:LaunchCGLowes:0.0.1-SNAPSHOT @ D:\Selenium_2026\Selenium\Selenium\pom.xml.
+2026-10-20 14:52:08,252 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/main/java
+2026-10-20 14:52:08,284 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/test/java
+2026-10-20 14:52:08,284 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Selenium/src/test/resources
+2026-10-20 14:52:08,286 [Worker-2: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-19', falling back to workspace default
+2026-10-20 14:52:10,288 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 1.00 sec 
+2026-10-20 14:52:50,283 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 14:52:50,283 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 14:52:50,285 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 14:52:50,287 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2026-10-20 14:52:51,656 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 14:52:51,656 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 14:52:51,656 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 14:52:51,656 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 14:55:34,088 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 14:55:34,092 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 14:55:34,098 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 14:55:34,098 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:00:24,495 [Worker-9: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:00:24,496 [Worker-9: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:00:24,503 [Worker-9: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:00:24,504 [Worker-9: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:00:24,662 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:00:24,662 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:00:24,665 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:00:24,665 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:00:34,315 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:00:34,315 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:00:34,320 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:00:34,321 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:00:58,026 [Worker-13: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:00:58,027 [Worker-13: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:00:58,031 [Worker-13: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:00:58,031 [Worker-13: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:00:58,162 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:00:58,162 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:00:58,167 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:00:58,168 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:02:01,033 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:02:01,034 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:02:01,036 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:02:01,038 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\test\resources
+2026-10-20 15:02:02,060 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:02:02,060 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:02:02,062 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:02:02,062 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\test\resources
+2026-10-20 15:02:24,268 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:02:24,268 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:02:24,271 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:02:24,273 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2026-10-20 15:02:33,702 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:02:33,702 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:02:33,704 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:02:33,705 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:02:35,796 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:02:35,796 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:02:35,798 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:02:35,799 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:02:41,926 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2026-10-20 15:02:44,075 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:02:44,075 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:02:44,077 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:02:44,077 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:02:44,595 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [269])
+2026-10-20 15:02:44,628 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2026-10-20 15:02:44,629 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2026-10-20 15:02:44,630 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2026-10-20 15:02:44,630 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2026-10-20 15:02:44,631 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2026-10-20 15:02:44,631 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2026-10-20 15:02:44,632 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2026-10-20 15:02:44,632 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2026-10-20 15:02:44,633 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2026-10-20 15:02:44,633 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2026-10-20 15:02:44,634 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2026-10-20 15:02:44,634 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2026-10-20 15:02:44,635 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2026-10-20 15:02:44,636 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2026-10-20 15:02:44,638 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2026-10-20 15:02:44,639 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2026-10-20 15:02:44,640 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2026-10-20 15:02:44,640 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2026-10-20 15:02:44,640 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2026-10-20 15:02:44,641 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2026-10-20 15:02:44,641 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2026-10-20 15:02:44,641 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2026-10-20 15:02:44,642 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2026-10-20 15:02:44,642 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2026-10-20 15:02:44,643 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2026-10-20 15:02:44,643 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2026-10-20 15:02:44,643 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2026-10-20 15:02:44,644 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2026-10-20 15:02:44,644 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2026-10-20 15:02:44,644 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2026-10-20 15:02:44,645 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2026-10-20 15:02:44,645 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2026-10-20 15:02:44,645 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2026-10-20 15:02:44,646 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2026-10-20 15:02:44,646 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2026-10-20 15:02:44,646 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2026-10-20 15:02:44,647 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2026-10-20 15:02:44,647 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2026-10-20 15:02:44,647 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2026-10-20 15:02:44,652 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2026-10-20 15:02:44,661 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2026-10-20 15:02:44,661 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [433])
+2026-10-20 15:02:44,665 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2026-10-20 15:02:44,666 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2026-10-20 15:02:44,669 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2026-10-20 15:02:44,669 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2026-10-20 15:02:44,674 [Worker-9: Launching Selenium] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shara\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2026-10-20 15:02:44,678 [Worker-9: Launching Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\Selenium_2026\Selenium\Selenium":
+2026-10-20 15:02:44,678 [Worker-9: Launching Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 
+2026-10-20 15:03:18,862 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:03:18,863 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:03:18,866 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:03:18,866 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:03:40,641 [Worker-9: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:03:40,641 [Worker-9: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:03:40,645 [Worker-9: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:03:40,645 [Worker-9: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:03:40,797 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:03:40,797 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:03:40,802 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:03:40,803 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:05:34,574 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:05:34,575 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:05:34,581 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:05:34,581 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:09:45,062 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:09:45,063 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:09:45,066 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:09:45,066 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:09:51,181 [Worker-17: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:09:51,181 [Worker-17: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:09:51,184 [Worker-17: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:09:51,184 [Worker-17: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:09:51,368 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:09:51,371 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:09:51,375 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:09:51,375 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:10:34,827 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:10:34,827 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:10:34,830 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:10:34,831 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:10:57,988 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:10:57,989 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:10:57,993 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:10:57,994 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:11:41,234 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:11:41,235 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:11:41,237 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:11:41,238 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:11:56,627 [Worker-21: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:11:56,627 [Worker-21: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:11:56,629 [Worker-21: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:11:56,629 [Worker-21: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:11:56,780 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:11:56,780 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:11:56,781 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:11:56,781 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:12:32,104 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:12:32,104 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:12:32,105 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:12:32,106 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:12:33,332 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:12:33,332 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:12:33,334 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:12:33,334 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:15:35,122 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:15:35,122 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:15:35,125 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:15:35,125 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:20:35,307 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:20:35,308 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:20:35,311 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:20:35,311 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:25:35,492 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:25:35,492 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:25:35,495 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:25:35,495 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:30:35,830 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:30:35,832 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:30:35,833 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:30:35,834 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:34:55,116 [Worker-33: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:34:55,118 [Worker-33: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:34:55,122 [Worker-33: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:34:55,123 [Worker-33: Launching Basics] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:34:55,325 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:34:55,325 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:34:55,328 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:34:55,328 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:35:36,072 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:35:36,072 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:35:36,074 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:35:36,076 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:40:36,423 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:40:36,424 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:40:36,426 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:40:36,426 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:40:48,847 [Worker-35: https://download.eclipse.org/wildwebdeveloper/releases/1.4.0/content.xml.xz] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:40:49,295 [Worker-31: https://download.eclipse.org/wildwebdeveloper/releases/1.4.0/content.xml.xz] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:40:49,730 [Worker-35: https://download.eclipse.org/egit/updates-7.7/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:40:50,157 [Worker-32: https://download.eclipse.org/egit/updates-7.7/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:40:50,254 [Worker-35: https://download.eclipse.org/egit/updates-7.7/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:40:50,296 [Worker-33: https://download.eclipse.org/egit/updates-7.7/content.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:40:50,311 [Worker-31: https://download.eclipse.org/lsp4e/releases/0.30.5/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:40:50,525 [Worker-35: https://download.eclipse.org/lsp4e/releases/0.30.5/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:40:50,539 [Worker-32: https://download.eclipse.org/lsp4e/releases/0.30.5/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:40:50,552 [Worker-36: https://download.eclipse.org/lsp4e/releases/0.30.5/content.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:40:50,572 [Worker-32: https://download.eclipse.org/modeling/emf/emf/builds/release/2.46.0/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:40:50,783 [Worker-32: https://download.eclipse.org/modeling/emf/emf/builds/release/2.46.0/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:40:50,804 [Worker-29: https://download.eclipse.org/modeling/emf/emf/builds/release/2.46.0/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:40:50,825 [Worker-31: https://download.eclipse.org/modeling/emf/emf/builds/release/2.46.0/content.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2026-10-20 15:45:00,706 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:45:00,707 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium_2026\Selenium\Selenium\src\main\resources
+2026-10-20 15:45:00,714 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-10-20 15:45:00,763 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-10-20 15:45:31,727 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-10-20 15:59:20,963 [Worker-3: http://download.eclipse.org/technology/m2e/releases/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://download.eclipse.org:80
+2026-10-20 16:52:30,554 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-10-20 20:41:44,032 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-10-20 20:44:41,731 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-10-20 21:12:16,667 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-10-20 21:14:50,289 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-10-20 21:16:56,749 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
